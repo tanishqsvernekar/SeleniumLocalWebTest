@@ -1,4 +1,4 @@
-name: Selenium TestNG CI/CD Pipelin
+name: Selenium TestNG CI/CD Pipeline
 # Trigger workflow on push and pull requests to main
 on:
   push:
